@@ -16,4 +16,4 @@ An animated view of my GitHub contribution graph, refreshed daily.
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/abdelrhman-habashy-751697173)
+[LinkedIn](https://linkedin.com/in/abdelrhman-habashy/)
