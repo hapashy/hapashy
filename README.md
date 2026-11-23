@@ -1,41 +1,19 @@
-# عبدالرحمن حبشي | Abdelrhman Habashy
+<img src="./1-animated-profile-preview.gif" width="100%" alt="Abdelrhman Habashy. Software developer. Marketing and development manager. HABASHY wordmark in cream and orange on dark purple." />
 
-## مطور برمجيات | مدير تسويق وتطوير
+## Abdelrhman Habashy
 
-أنا مطور برمجيات، وأعمل في إدارة التسويق والتطوير. يجمع مساري بين الجانب التقني والجانب التجاري، وهذا الحساب يعرض جزءا من عملي البرمجي.
+Software developer and Marketing & Development Manager. My work brings together a technical foundation and a business perspective.
 
-## الجانب التقني
+### Tools I've worked with
 
-تتضمن مشاريعي المنشورة تطبيقات Flutter وDart، والتعامل مع واجهات API، وإدارة حالة التطبيق باستخدام BLoC وCubit، وتخزين البيانات باستخدام Hive وFirebase.
+Flutter · Dart · BLoC / Cubit · REST APIs · Firebase · Hive · Git
 
-## مشاريع مختارة
+### Contribution snake
 
-### Movies
-تطبيق لاستعراض الأفلام، يستخدم BLoC وDio مع فصل طبقات البيانات والمنطق والعرض.
+An animated view of my GitHub contribution graph, refreshed daily.
 
-https://github.com/hapashy/Movies
+<img src="https://raw.githubusercontent.com/hapashy/hapashy/output/github-snake.svg" width="100%" alt="Orange contribution snake animation" />
 
-### Bokly
-تطبيق لاستعراض الكتب، يستخدم بيانات من API مع تخزين محلي باستخدام Hive وإدارة الحالة باستخدام Cubit.
+### Connect
 
-https://github.com/hapashy/bokly_app
-
-### Notes
-تطبيق ملاحظات يستخدم Hive للتخزين المحلي وCubit لإدارة الحالة.
-
-https://github.com/hapashy/notes_app
-
-### Chat
-تطبيق محادثة يستخدم Firebase Authentication وCloud Firestore.
-
-https://github.com/hapashy/chat_app
-
-## التسويق والتطوير
-
-أعمل في إدارة التسويق والتطوير إلى جانب خلفيتي في البرمجة. أعرض هنا المشاريع التقنية التي أستطيع مشاركتها، دون نشر أعمال أو بيانات خاصة.
-
-## تواصل
-
-LinkedIn
-
-https://linkedin.com/in/abdelrhman-habashy-751697173
+[LinkedIn](https://linkedin.com/in/abdelrhman-habashy-751697173)
